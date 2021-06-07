@@ -1,4 +1,4 @@
-% univariate case with sv + dpm
+% multivariate case with + sv + dpm
 clear; clc;
 %load 'USCPI.csv';
 %y = USCPI;
